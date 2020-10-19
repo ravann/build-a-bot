@@ -1,0 +1,177 @@
+{
+    "0": {
+        "head": {
+            "id": 1,
+            "description": "A robot head with an unusually large eye and teloscpic neck -- excellent for exploring high spaces.",
+            "title": "Large Cyclops",
+            "src": "/api/images/head-big-eye.png",
+            "type": "heads",
+            "cost": 1225.5
+        },
+        "leftArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "rightArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "torso": {
+            "id": 1,
+            "description": "A torso that can bend slightly at the waist and equiped with a heat guage.",
+            "title": "Flexible Gauged",
+            "src": "/api/images/torso-flexible-gauged.png",
+            "type": "torsos",
+            "cost": 1575
+        },
+        "base": {
+            "id": 1,
+            "description": "A two wheeled base with an accelerometer for stability.",
+            "title": "Double Wheeled",
+            "src": "/api/images/base-double-wheel.png",
+            "type": "bases",
+            "cost": 895
+        },
+        "cost": 4245.5
+    },
+    "1": {
+        "head": {
+            "id": 2,
+            "description": "A friendly robot head with two eyes and a smile -- great for domestic use.",
+            "title": "Friendly",
+            "src": "/api/images/head-friendly.png",
+            "cost": 945,
+            "type": "heads",
+            "onSale": true
+        },
+        "leftArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "rightArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "torso": {
+            "id": 1,
+            "description": "A torso that can bend slightly at the waist and equiped with a heat guage.",
+            "title": "Flexible Gauged",
+            "src": "/api/images/torso-flexible-gauged.png",
+            "type": "torsos",
+            "cost": 1575
+        },
+        "base": {
+            "id": 1,
+            "description": "A two wheeled base with an accelerometer for stability.",
+            "title": "Double Wheeled",
+            "src": "/api/images/base-double-wheel.png",
+            "type": "bases",
+            "cost": 895
+        },
+        "cost": 3965
+    },
+    "2": {
+        "head": {
+            "id": 2,
+            "description": "A friendly robot head with two eyes and a smile -- great for domestic use.",
+            "title": "Friendly",
+            "src": "/api/images/head-friendly.png",
+            "cost": 945,
+            "type": "heads",
+            "onSale": true
+        },
+        "leftArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "rightArm": {
+            "id": 2,
+            "description": "An arm with two independent claws -- great when you need an extra hand. Need four hands? Equip your bot with two of these arms.",
+            "title": "Two Clawed",
+            "src": "/api/images/arm-dual-claw.png",
+            "type": "arms",
+            "cost": 285
+        },
+        "torso": {
+            "id": 2,
+            "description": "A less flexible torso with a battery gauge.",
+            "title": "Gauged",
+            "src": "/api/images/torso-gauged.png",
+            "type": "torsos",
+            "cost": 1385
+        },
+        "base": {
+            "id": 1,
+            "description": "A two wheeled base with an accelerometer for stability.",
+            "title": "Double Wheeled",
+            "src": "/api/images/base-double-wheel.png",
+            "type": "bases",
+            "cost": 895
+        },
+        "cost": 3785
+    },
+    "robot": {
+        "head": {
+            "id": 2,
+            "description": "A friendly robot head with two eyes and a smile -- great for domestic use.",
+            "title": "Friendly",
+            "src": "/api/images/head-friendly.png",
+            "cost": 945,
+            "type": "heads",
+            "onSale": true
+        },
+        "leftArm": {
+            "id": 1,
+            "description": "An articulated arm with a claw -- great for reaching around corners or working in tight spaces.",
+            "title": "Articulated",
+            "src": "/api/images/arm-articulated-claw.png",
+            "type": "arms",
+            "cost": 275
+        },
+        "rightArm": {
+            "id": 2,
+            "description": "An arm with two independent claws -- great when you need an extra hand. Need four hands? Equip your bot with two of these arms.",
+            "title": "Two Clawed",
+            "src": "/api/images/arm-dual-claw.png",
+            "type": "arms",
+            "cost": 285
+        },
+        "torso": {
+            "id": 2,
+            "description": "A less flexible torso with a battery gauge.",
+            "title": "Gauged",
+            "src": "/api/images/torso-gauged.png",
+            "type": "torsos",
+            "cost": 1385
+        },
+        "base": {
+            "id": 1,
+            "description": "A two wheeled base with an accelerometer for stability.",
+            "title": "Double Wheeled",
+            "src": "/api/images/base-double-wheel.png",
+            "type": "bases",
+            "cost": 895
+        },
+        "cost": 3785
+    }
+}
